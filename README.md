@@ -6,4 +6,4 @@ Date      Time    Users
 22/3/2017 11:10   50
 22/3/2017 11:15   50
 
-Takes into account only Active users.
+
